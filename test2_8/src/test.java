@@ -7,6 +7,8 @@ public class test {
         System.out.println("add test method");
     }
     //修改方法save
-    public void save(){}
+    public void save(){
+        //devs
+    }
 
 }
