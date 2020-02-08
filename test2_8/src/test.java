@@ -6,7 +6,7 @@ public class test {
         //注解
         System.out.println("add test method");
     }
-    //在添加方法save
+    //修改方法save
     public void save(){}
 
 }
