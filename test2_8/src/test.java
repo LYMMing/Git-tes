@@ -6,7 +6,11 @@ public class test {
         //注解
         System.out.println("add test method");
     }
-    //在添加方法save
-    public void save(){}
+    //修改方法save
+    public void save(){
+        //devs
+        //master的2.0
+        //hhhhhh
+    }
 
 }
